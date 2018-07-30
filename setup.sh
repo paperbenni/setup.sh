@@ -18,4 +18,5 @@ sudo apt install blender\
  neovim\
  openjdk-8-jdk openjdk-8-demo openjdk-8-doc openjdk-8-jre-headless openjdk-8-source\
  audacity\
- nvidia-cuda-dev nvidia-cuda-toolkit 
+ nvidia-cuda-dev nvidia-cuda-toolkit\
+ steam
