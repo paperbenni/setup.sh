@@ -19,4 +19,5 @@ sudo apt install -y blender\
  openjdk-8-jdk openjdk-8-demo openjdk-8-doc openjdk-8-jre-headless openjdk-8-source\
  audacity\
  nvidia-cuda-dev nvidia-cuda-toolkit\
- steam
+ steam\
+ lutris
