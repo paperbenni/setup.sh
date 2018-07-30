@@ -2,7 +2,7 @@
 sudo apt update
 sudo apt upgrade -y
 sudo apt update
-sudo apt install blender\
+sudo apt install -y blender\
  krita\
  python\
  curl\
