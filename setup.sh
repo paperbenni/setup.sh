@@ -20,5 +20,5 @@ sudo apt install -y blender\
  audacity\
  nvidia-cuda-dev nvidia-cuda-toolkit\
  steam\
- lutris\
- synaptic
+ synaptic\
+ papirus-icon-theme
